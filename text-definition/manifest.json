@@ -1,6 +1,6 @@
 {
     "name":"Text Definition",
-    "description":"Help with providing the definition of selected text",
+    "description":"Providing the definition of selected text",
     "version": "1.0",
     "manifest_version": 3,
     "action": {
